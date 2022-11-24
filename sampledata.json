@@ -1,37 +1,83 @@
 [
  {
+   "Launch a Lifestyle Marketplace": "Launch a Lifestyle Marketplace",
+   "Get a digital offers storefront (CXaaS)": "Get a digital offers storefront (CXaaS)  ",
+   "Get a white-labeled storefront": "Get a white-labeled storefront",
    "Web App": "Web App",
    "Login": "Login",
-   "Phone Number": "Guest"
+   "Phone Number": "Guest",
+   "Pop-Up": "Pop-Up"
  },
  {
+   "Launch a Lifestyle Marketplace": "Launch a Lifestyle Marketplace",
+   "Get a digital offers storefront (CXaaS)": "Get a digital offers storefront (CXaaS)  ",
+   "Get a white-labeled storefront": "Get a white-labeled storefront",
    "Web App": "Web App",
    "Login": "Login",
-   "Phone Number": "Personalized URL"
+   "Phone Number": "Personalized URL",
+   "Pop-Up": "URL"
  },
  {
+   "Launch a Lifestyle Marketplace": "Launch a Lifestyle Marketplace",
+   "Get a digital offers storefront (CXaaS)": "Get a digital offers storefront (CXaaS)  ",
+   "Get a white-labeled storefront": "Get a white-labeled storefront",
    "Web App": "Web App",
    "Login": "Categories",
-   "Phone Number": "Tabs"
+   "Phone Number": "Tabs",
+   "Pop-Up": "Tabs on UI"
  },
  {
+   "Launch a Lifestyle Marketplace": "Launch a Lifestyle Marketplace",
+   "Get a digital offers storefront (CXaaS)": "Get a digital offers storefront (CXaaS)  ",
+   "Get a white-labeled storefront": "Get a white-labeled storefront",
    "Web App": "Web App",
    "Login": "Categories",
-   "Phone Number": "Nested Menu"
+   "Phone Number": "Nested Menu",
+   "Pop-Up": "Drop-down list on UI"
  },
  {
+   "Launch a Lifestyle Marketplace": "Launch a Lifestyle Marketplace",
+   "Get a digital offers storefront (CXaaS)": "Get a digital offers storefront (CXaaS)  ",
+   "Get a white-labeled storefront": "Get a white-labeled storefront",
    "Web App": "Web App",
    "Login": "Search",
-   "Phone Number": "Merchant Name"
+   "Phone Number": "Merchant Name",
+   "Pop-Up": "APIs integrated with UI"
  },
  {
+   "Launch a Lifestyle Marketplace": "Launch a Lifestyle Marketplace",
+   "Get a digital offers storefront (CXaaS)": "Get a digital offers storefront (CXaaS)  ",
+   "Get a white-labeled storefront": "Get a white-labeled storefront",
    "Web App": "Web App",
    "Login": "Search",
-   "Phone Number": "Location"
+   "Phone Number": "Location",
+   "Pop-Up": "APIs integrated with UI"
  },
  {
+   "Launch a Lifestyle Marketplace": "Launch a Lifestyle Marketplace",
+   "Get a digital offers storefront (CXaaS)": "Get a digital offers storefront (CXaaS)  ",
+   "Get a white-labeled storefront": "Get a white-labeled storefront",
    "Web App": "Web App",
    "Login": "Search",
-   "Phone Number": "Attribute"
+   "Phone Number": "Attribute",
+   "Pop-Up": "APIs integrated with UI"
+ },
+ {
+   "Launch a Lifestyle Marketplace": "Launch a Lifestyle Marketplace",
+   "Get a digital offers storefront (CXaaS)": "Add personalization to the storefront (RaaS)",
+   "Get a white-labeled storefront": "Personalize based on digital interactions (Cold Start)",
+   "Web App": "Enrich Offer Data",
+   "Login": "Source merchant info, images & attributes/tags",
+   "Phone Number": "Exclusion list for tags & attributes",
+   "Pop-Up": "API to be integrated with UI"
+ },
+ {
+   "Launch a Lifestyle Marketplace": "Launch a Lifestyle Marketplace",
+   "Get a digital offers storefront (CXaaS)": "Add personalization to the storefront (RaaS)",
+   "Get a white-labeled storefront": "Personalize based on digital interactions (Cold Start)",
+   "Web App": "Personalize the Web Page/Mobile App experience",
+   "Login": "Get Personalized Location based Lists",
+   "Phone Number": "List status : on/off",
+   "Pop-Up": "API to be integrated with UI"
  }
 ]
