@@ -1,0 +1,37 @@
+[
+ {
+   "Web App": "Web App",
+   "Login": "Login",
+   "Phone Number": "Guest"
+ },
+ {
+   "Web App": "Web App",
+   "Login": "Login",
+   "Phone Number": "Personalized URL"
+ },
+ {
+   "Web App": "Web App",
+   "Login": "Categories",
+   "Phone Number": "Tabs"
+ },
+ {
+   "Web App": "Web App",
+   "Login": "Categories",
+   "Phone Number": "Nested Menu"
+ },
+ {
+   "Web App": "Web App",
+   "Login": "Search",
+   "Phone Number": "Merchant Name"
+ },
+ {
+   "Web App": "Web App",
+   "Login": "Search",
+   "Phone Number": "Location"
+ },
+ {
+   "Web App": "Web App",
+   "Login": "Search",
+   "Phone Number": "Attribute"
+ }
+]
